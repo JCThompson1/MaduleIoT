@@ -10,9 +10,9 @@ Service manager running on the server.
 2. JAVA 1.8
 3. maven 3.6.0
 ## 下载及编译源码
-git clone https://github.com/JCThompson1/MaduleIoT.git
-mvn package clean -Dmaven.test.skip=true
-mvn package -Dmaven.test.skip=true
+1. git clone https://github.com/JCThompson1/MaduleIoT.git
+2. mvn package clean -Dmaven.test.skip=true
+3. mvn package -Dmaven.test.skip=true
 ## 参与贡献
 1. Fork本仓库
 2. 新建Feat_xxx分支
